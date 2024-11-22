@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "HKprocess"]
-	path = HKprocess
-	url = https://github.com/cran/HKprocess
 [submodule "scoringfunctions"]
 	path = scoringfunctions
 	url = https://github.com/cran/scoringfunctions
